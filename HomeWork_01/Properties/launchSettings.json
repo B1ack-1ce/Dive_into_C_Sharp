@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HomeWork_01": {
+      "commandName": "Project",
+      "commandLineArgs": "456\r\n%\r\n123\r\n"
+    }
+  }
+}
